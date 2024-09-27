@@ -1,8 +1,14 @@
-# Work In Progress
+# Work In Progress - Nuxt 3 Project Template
 
 ## About
 
-This is a WIP project to create a website using Nuxt 3 and Tailwind CSS, with built-in authentication and authorization and Prisma for database access.
+The purpose of this template was to quickly and easily spin up a Nuxt 3 project with auth and select UI packages.
+- Supabase auth
+- TailwindCSS
+- DaisyUI
+- Light/dark mode ready
+
+Designed to be simple and ready to go. Not much progress has been made but I keep it around in case I get bored someday soon... I'll probably update it to Nuxt 4 shortly.
 
 ## About Nuxt 3
 
