@@ -5,4 +5,6 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     'nuxt-icon',
   ],
+
+  compatibilityDate: '2024-09-27',
 });
